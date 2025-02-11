@@ -1,0 +1,12 @@
+.astonish {
+    visibility: visible;
+}
+
+@media (min-width: 768px) {
+    .astonish {
+         visibility: hidden;
+     }
+     .animated {
+          visibility: visible;
+     }
+ }
